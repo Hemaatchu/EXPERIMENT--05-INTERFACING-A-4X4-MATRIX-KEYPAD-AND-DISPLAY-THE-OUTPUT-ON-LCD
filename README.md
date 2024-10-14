@@ -1,7 +1,7 @@
 # EXPERIMENT--05-INTERFACING-A-4X4-MATRIX-KEYPAD-AND-DISPLAY-THE-OUTPUT-ON-LCD
 
-### NAME : Ashwin Kumar S 
-### REG NO : 212222240013
+### NAME : HEMAVATHY S 
+### REG NO : 212223230076
 ## Aim: 
 To Interface a 4X4 matrix keypad and show the output on 16X2 LCD display to ARM controller , and simulate it in Proteus
 ## Components required: 
